@@ -6,7 +6,7 @@ Herediscope is an an app that uses simple Mendelian genetics to predict the likl
 
 Screenshots: 
 
-![Alt text](/../<screenshots>/herediscope/herediscope screenshots/Screen Shot 2017-11-03 at 12.26.06 AM.png)
+![Alt text](/../screenshots/herediscope/herediscope screenshots/Screen Shot 2017-11-03 at 12.26.06 AM.png)
 
 
 
