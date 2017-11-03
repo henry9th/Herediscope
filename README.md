@@ -11,6 +11,7 @@ Herediscope is an an app that uses simple Mendelian genetics to predict the likl
 <img src="https://github.com/hyunraekim/herediscope/blob/screenshots/herediscope%20screenshots/Screen%20Shot%202017-11-03%20at%2012.27.20%20AM.png" width="200"> <img src="https://github.com/hyunraekim/herediscope/blob/screenshots/herediscope%20screenshots/Screen%20Shot%202017-11-03%20at%2012.27.38%20AM.png" width="200"> <img src="https://github.com/hyunraekim/herediscope/blob/screenshots/herediscope%20screenshots/Screen%20Shot%202017-11-03%20at%2012.28.23%20AM.png" width="200"> <img src="https://github.com/hyunraekim/herediscope/blob/screenshots/herediscope%20screenshots/Screen%20Shot%202017-11-03%20at%2012.29.08%20AM.png" width="200">
 
 ### Demo:
+
 <img src="https://media.giphy.com/media/xUNda5eZhxibQerS7K/giphy.gif" width="250">
 
 
